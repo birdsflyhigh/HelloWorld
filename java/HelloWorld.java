@@ -1,4 +1,4 @@
-package java;
+package com.birdflyhigh;
 
 public class HelloWorld{
   public static void main(String[] args){
